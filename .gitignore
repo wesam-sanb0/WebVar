@@ -27,3 +27,6 @@ Thumbs.db
 # Python artifacts in backend notebooks
 __pycache__/
 *.pyc
+
+# Ignore nested git backup
+webvar-backend/.git_nested_backup/
