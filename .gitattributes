@@ -1,0 +1,12 @@
+*.js linguist-detectable
+*.jsx linguist-language=JSX linguist-detectable
+*.ipynb linguist-detectable
+*.html linguist-detectable
+*.css linguist-detectable
+*.json linguist-detectable
+*.yaml linguist-detectable
+*.yml linguist-detectable
+*.md linguist-detectable
+*.csv linguist-detectable
+.env linguist-detectable
+*.env linguist-detectable
