@@ -6,7 +6,8 @@ This group project was develop by group 8 in the AI Club at Imam Abdulrahman Bin
 
 GROUP 8 MEMBERS:
 · Wesam Sanbo
+· Mona Alsubaie
 · Layan Almudarra
 · Norah Alsubaie
 · Fatimah Al-Abdullah
-· Mona Alsubaie
+
