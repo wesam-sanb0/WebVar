@@ -114,7 +114,7 @@ GOOGLE_API_KEY=your_google_safe_browsing_key
 - `POST /api/url-phishing`
 - `POST /api/price-comparison`
 
-## Notes for Teammates
+## Notes 
 
 - The frontend currently uses hardcoded backend URLs with port `3000`.
 - If you change backend port, also update frontend API URLs.
