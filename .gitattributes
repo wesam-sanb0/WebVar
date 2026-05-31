@@ -1,14 +1,4 @@
-*.csv linguist-language=Data
-
-*.js linguist-detectable
-*.jsx linguist-language=JSX linguist-detectable
-*.ipynb linguist-detectable
-*.html linguist-detectable
-*.css linguist-detectable
-*.json linguist-detectable
-*.yaml linguist-detectable
-*.yml linguist-detectable
-.env linguist-detectable
-*.env linguist-detectable
+*.ipynb linguist-detectable=false
+*.csv linguist-detectable=false
 
 *.md linguist-documentation
